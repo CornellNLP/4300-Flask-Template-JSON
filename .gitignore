@@ -18,3 +18,14 @@ build/
 *.egg-info/
 helpers/*
 json_template/
+
+lib/
+bin/
+pyvenv.cfg
+
+.idea
+4300_project
+
+scraped.csv
+TODOS.md
+backend/experimental/sandbox.py
